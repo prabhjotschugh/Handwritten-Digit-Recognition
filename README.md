@@ -12,6 +12,5 @@ The model uses a three-layered Neural Network :
 
 # Live Demo
 
-
 https://user-images.githubusercontent.com/64200536/230080100-d2828636-38a1-431d-9bcc-a7728c9c5289.mp4
 
